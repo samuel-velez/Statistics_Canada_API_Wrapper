@@ -80,8 +80,8 @@ You can find IDs for products by coordinating them with CANSIM numbers you come 
 A full mapping from CANSIM numbers to IDs is available at: https://www.statcan.gc.ca/eng/developers/concordance
 
 ## Contributors
-Mandar Kathe @Mandar_Kat
-Samuel Velez @samuel-velez
+Mandar Kathe @Mandar_Kat\
+Samuel Velez @samuel-velez\
 Vicens Paneque @VicensPaneque
 
 ## Meta
