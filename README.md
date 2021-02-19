@@ -1,3 +1,5 @@
+  [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
 R package wrapping a RESTful API for the Statistics Canada Web Data Service (API) (https://www.statcan.gc.ca)
 
 ## Description
