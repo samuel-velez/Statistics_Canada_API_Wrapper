@@ -10,8 +10,6 @@ Statistics Canada Web Data Service is an API service, which will provide access 
 
 See https://www.statcan.gc.ca/eng/developers/wds for API docs for the Statistics Canada Web Data service (API).
 
-Please read the Web Data Service User Guide ( https://www.statcan.gc.ca/eng/developers/wds ).
-
 
 ## Installation
 
