@@ -1,3 +1,5 @@
+usethis::use_github_action("check-release")
+usethis::use_github_actions_badge(name = "check-release", repo_spec = NULL)
   [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
   [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
@@ -11,7 +13,7 @@ Statistics Canada is Canada’s national statistical office. The agency ensures 
 
 Statistics Canada Web Data Service is an API service, which will provide access to data and metadata released by Statistics Canada each business day. This web service provides an access to the main Statistics Canada output database via a number of "calls" or "methods" that harvest the data and metadata in its raw form and return it to the caller.
 
-`Statistics_Canada_API_Wrapper` allows one to extract data for a given date range using vectors and extract the entire time series for selected tables in CSV output format.
+`statcanapiwrapper` allows one to extract data for a given date range using vectors and extract the entire time series for selected tables in CSV output format.
 
 See https://www.statcan.gc.ca/eng/developers/wds for API docs for the Statistics Canada Web Data service (API).
 
@@ -22,7 +24,7 @@ From CRAN
 
 
 ```r
-install.packages(“Statistics_Canada_API_Wrapper”)
+install.packages(“statcanapiwrapper”)
 ```
 
 Or the development version from Github 
@@ -36,7 +38,7 @@ Load package
 
 
 ```r
-library(“Statistics_Canada_API_Wrapper”)
+library(“statcanapiwrapper”)
 ```
 
 
