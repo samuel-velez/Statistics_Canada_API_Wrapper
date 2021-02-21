@@ -3,7 +3,7 @@
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/)
 [![Coverage
-Status](https://coveralls.io/repos/ropensci/rebird/badge.svg)](https://coveralls.io/github/ropensci/rebird)
+Status]()
 
 R package wrapping a RESTful API for the Statistics Canada Web Data Service (API) (https://www.statcan.gc.ca)
 
