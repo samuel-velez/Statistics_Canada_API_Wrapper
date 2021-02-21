@@ -22,7 +22,7 @@ From CRAN
 install.packages(“Statistics_Canada_API_Wrapper”)
 ```
 
-? Or the development version from Github 
+Or the development version from Github 
 
 
 ```r
