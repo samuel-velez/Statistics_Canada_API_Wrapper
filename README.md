@@ -147,6 +147,7 @@ ggplot(pop_estimates, aes(x=Date)) +
 Inspect the output
 
 ![Screenshot](plot1.png  =100x20)
+<img src="plot1.jpg" width="100" height="100">
 
 * Plot the four columns using the ggplot 2 library
 
@@ -161,6 +162,7 @@ ggplot(pop_estimates, aes(x=Date)) +
 Inspect the output
 
 ![Screenshot](plot2.png  =100x20)
+<img src="plot2.jpg" width="100" height="100">
 
 ## getFullTableDownloadCSV
 
