@@ -6,6 +6,7 @@ Authors@R: c(
     person("Mandar", "Kathe", email = "mandar909@gmail.com", role = "cre"),
     person("Samuel", "Velez", email = "savelez@mail.ubc.ca", role = "cre"),
     person("Vicens", "Paneque", email = "vicenspaneque@gmail.com", role = "cre"))
+Maintainer: Samuel Velez <savelez@mail.ubc.ca>
 Author: Samuel Velez [aut, cre],
   Mandar Kathe [aut, cre],
   Vicens Paneque [aut, cre]
