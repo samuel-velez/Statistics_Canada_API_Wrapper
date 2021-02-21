@@ -8,7 +8,7 @@ Statistics Canada is Canada’s national statistical office. The agency ensures 
 
 Statistics Canada Web Data Service is an API service, which will provide access to data and metadata released by Statistics Canada each business day. This web service provides an access to the main Statistics Canada output database via a number of "calls" or "methods" that harvest the data and metadata in its raw form and return it to the caller.
 
-`our-package` allows one to extract data for a given date range using vectors and extract the entire time series for selected tables in CSV output format.
+`Statistics_Canada_API_Wrapper` allows one to extract data for a given date range using vectors and extract the entire time series for selected tables in CSV output format.
 
 See https://www.statcan.gc.ca/eng/developers/wds for API docs for the Statistics Canada Web Data service (API).
 
@@ -19,21 +19,21 @@ From CRAN
 
 
 ```r
-? install.packages(“our-package”)
+install.packages(“our-package”)
 ```
 
 ? Or the development version from Github 
 
 
 ```r
-remotes::install_github(“our-repository/our-package“)
+remotes::install_github(“samuel-velez/Statistics_Canada_API_Wrapper“)
 ```
 
 Load package
 
 
 ```r
-library(“our-package”)
+library(“Statistics_Canada_API_Wrapper”)
 ```
 
 
@@ -195,6 +195,6 @@ Vicens Paneque @VicensPaneque
 
 ## Meta
 
-* Please [report any issues or bugs](https://https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/issues).
-* License: [MIT](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/blob/Vicens/LICENSE).
-* Please note that this project is released with a [Contributor Code of Conduct](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/blob/Vicens/CONDUCT.md). By participating in this project you agree to abide by its terms.
+* Please [report any issues or bugs](https://https://github.com/samuel-velez/Statistics_Canada_API_Wrapper).
+* License: [MIT](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/LICENSE).
+* Please note that this project is released with a [Contributor Code of Conduct](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/CONDUCT.md). By participating in this project you agree to abide by its terms.
