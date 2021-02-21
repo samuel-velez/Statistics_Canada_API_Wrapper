@@ -55,7 +55,10 @@
 4. Inserted an experimental vignette to indicate that we are currently under code development.
 5. Tryed and tested our functions and performed a mini EDA to guide documentation.
 
-**02/20/21**
+**02/21/21**
+
+1. Met with Mandar for overall project disucssion.
+2. Worked on fixing the documentation.
 
 
 	
