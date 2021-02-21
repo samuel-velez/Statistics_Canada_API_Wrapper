@@ -1,4 +1,4 @@
-Package: statcan_api_wrapper
+Package: statcanapiwrapper
 Version: 1
 Date: 2021-02-21
 Title: Statistics Canada REST API Wrapper
@@ -9,8 +9,7 @@ Authors@R: c(
 Author: Samuel Velez [aut, cre],
   Mandar Kathe [aut, cre],
   Vicens Paneque [aut, cre]
-Maintainer: Joe Developer <Joe.Developer@some.domain.net>
 Depends: R (>= 3.1.0), httr, jsonlite
 Description: R package wrapping a RESTful API for the Statistics Canada Web Data Service (API). Downloads full tables and imports time series vectors
 License: MIT License
-URL: https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/
+URL: https://github.com/samuel-velez/Statistics_Canada_API_Wrapper
