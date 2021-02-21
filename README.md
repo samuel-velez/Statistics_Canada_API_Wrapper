@@ -19,7 +19,7 @@ From CRAN
 
 
 ```r
-install.packages(“our-package”)
+install.packages(“Statistics_Canada_API_Wrapper”)
 ```
 
 ? Or the development version from Github 
@@ -196,5 +196,5 @@ Vicens Paneque @VicensPaneque
 ## Meta
 
 * Please [report any issues or bugs](https://https://github.com/samuel-velez/Statistics_Canada_API_Wrapper).
-* License: [MIT](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/LICENSE).
-* Please note that this project is released with a [Contributor Code of Conduct](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/CONDUCT.md). By participating in this project you agree to abide by its terms.
+* License: [MIT](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/blob/main/LICENSE.md).
+* Please note that this project is released with a [Contributor Code of Conduct](https://github.com/samuel-velez/Statistics_Canada_API_Wrapper/blob/main/CONDUCT.md). By participating in this project you agree to abide by its terms. 
