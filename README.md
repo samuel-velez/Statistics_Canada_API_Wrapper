@@ -1,5 +1,3 @@
-usethis::use_github_action("check-release")
-usethis::use_github_actions_badge(name = "check-release", repo_spec = NULL)
   [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
   [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
