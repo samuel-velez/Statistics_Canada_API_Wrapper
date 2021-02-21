@@ -162,11 +162,11 @@ Inspect the output
 
 <img src="plot2.png" width="300" height="300">
 
-## getFullTableDownloadCSV
+## download_csv
 
 
 ```r
-example = getFullTableDownloadCSV(14100287)
+example = download_csv(14100287)
 ```
 
 Inspect the output
@@ -178,7 +178,7 @@ pending
   "object": "https://www150.statcan.gc.ca/n1/tbl/csv/14100287-eng.zip"
 }
 ```
-This specific request downloads the entire table.
+This specific request downloads the entire tabl with product ID = 14100287
 
 ## IDs for products
 You can find IDs for products by coordinating them with CANSIM numbers you come across on the StatsCan website.
