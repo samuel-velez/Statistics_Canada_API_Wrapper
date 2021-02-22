@@ -59,6 +59,7 @@
 
 1. Met with Mandar for overall project disucssion.
 2. Worked on fixing the documentation.
+3. Final formal gruop meeting:
+	1.  Each of us exhibited and explain the work we  performed.
+	2.  Decided to publish the project in CRAN but we are facing difficulties uploading the package due to server connection issues.
 
-
-	
